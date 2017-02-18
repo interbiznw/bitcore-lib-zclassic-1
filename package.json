@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-lib-zcash",
+  "name": "bitcore-lib-zclassic",
   "version": "0.13.19",
-  "description": "A pure and powerful JavaScript Zcash library.",
+  "description": "A pure and powerful JavaScript Zclassic library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -61,7 +61,7 @@
     }
   ],
   "keywords": [
-    "zcash",
+    "zclassic",
     "transaction",
     "address",
     "p2p",
@@ -78,7 +78,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/str4d/bitcore-lib-zcash.git"
+    "url": "https://github.com/aayanl/bitcore-lib-zclassic.git"
   },
   "browser": {
     "request": "browser-request"
